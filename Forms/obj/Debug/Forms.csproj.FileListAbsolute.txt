@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Forms\Forms\bin\Debug\Forms.exe.config
+C:\Users\Admin\Desktop\Forms\Forms\bin\Debug\Forms.exe
+C:\Users\Admin\Desktop\Forms\Forms\bin\Debug\Forms.pdb
+C:\Users\Admin\Desktop\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Admin\Desktop\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Forms\Forms\obj\Debug\Forms.exe
+C:\Users\Admin\Desktop\Forms\Forms\obj\Debug\Forms.pdb
+C:\Users\Admin\Desktop\Forms\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\Admin\Desktop\Forms\Forms\obj\Debug\Forms.Forms.About.resources
+C:\Users\Admin\Desktop\Forms\Forms\obj\Debug\Forms.Forms.Portfolio.resources
+C:\Users\Admin\Desktop\Forms\Forms\obj\Debug\Forms.Forms.Work.resources
